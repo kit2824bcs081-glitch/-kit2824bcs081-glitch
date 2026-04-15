@@ -31,9 +31,4 @@
 - 🌾 Crop Yield Prediction (Machine Learning)
 
 ---
-
-## 📫 Connect With Me
-- LinkedIn: [Your Link]
-- Email: [Your Email]
-
 ⭐ Always learning and building!# -kit2824bcs081-glitch
