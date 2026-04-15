@@ -32,3 +32,8 @@
 
 ---
 ⭐ Always learning and building!# -kit2824bcs081-glitch
+
+
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
